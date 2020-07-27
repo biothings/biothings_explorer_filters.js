@@ -20,7 +20,7 @@ async function filterResults(results, options) {
   if (options.max_results) {
     results = results.slice(0, options.max_results);
   }
-  
+
   return results;
 }
 

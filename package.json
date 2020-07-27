@@ -15,7 +15,7 @@
     "biothings-explorer"
   ],
   "author": "Eric Zhou",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/ericz1803/biothings_explorer_filters.js/issues"
   },

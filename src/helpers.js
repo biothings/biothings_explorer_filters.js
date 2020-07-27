@@ -135,7 +135,6 @@ function sortBy(results, field) {
   })
 }
 
-
 module.exports = {
   getCorrelation: getCorrelation,
   sortBy: sortBy
