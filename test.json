@@ -1,0 +1,4251 @@
+[
+  {
+    "MESH": "C088450",
+    "pubmed": ["30258081"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:C088450",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:30258081"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "ZM 230487", "identifier": "MESH:C088450" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:C088450" },
+          { "identifier": "UMLS:C0257278" },
+          { "identifier": "name:ZM 230487" },
+          { "identifier": "name:ZM-230487" }
+        ],
+        "bte_ids": {
+          "MESH": ["C088450"],
+          "UMLS": ["C0257278"],
+          "name": ["ZM 230487", "ZM-230487"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:C088450", "UMLS:C0257278"]
+      },
+      "original": "MESH:C088450"
+    },
+    "label": "ZM 230487",
+    "id": "MESH:C088450"
+  },
+  {
+    "MESH": "C097270",
+    "pubmed": ["17275163", "22138691", "23797736", "25401301"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:C097270",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": [
+      "PMID:17275163",
+      "PMID:22138691",
+      "PMID:23797736",
+      "PMID:25401301"
+    ],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "ZM 241385", "identifier": "MESH:C097270" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:C097270" },
+          { "identifier": "UMLS:C0384965" },
+          { "identifier": "name:ZM 241385" },
+          { "identifier": "name:ZM-241385" }
+        ],
+        "bte_ids": {
+          "MESH": ["C097270"],
+          "UMLS": ["C0384965"],
+          "name": ["ZM 241385", "ZM-241385"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:C097270", "UMLS:C0384965"]
+      },
+      "original": "MESH:C097270"
+    },
+    "label": "ZM 241385",
+    "id": "MESH:C097270"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["17070308", "18507039"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:17070308", "PMID:18507039"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["30258081"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:30258081"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["17133271"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:17133271"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["18482720"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:18482720"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["16188142"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:16188142"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["20208132"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:20208132"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["15108329"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:15108329"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["15108329"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:15108329"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["17133271"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:17133271"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["18264126"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:18264126"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["7834629"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:7834629"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["15108329"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:15108329"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["22138691"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:22138691"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["23797736"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:23797736"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["25401301"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:25401301"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["25401301"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:25401301"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["12664575"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:12664575"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["25401301"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:25401301"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["15108329"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:15108329"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["15108329"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:15108329"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "D000077211",
+    "pubmed": ["17275163", "22138691", "23797736", "25401301"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": [
+      "PMID:17275163",
+      "PMID:22138691",
+      "PMID:23797736",
+      "PMID:25401301"
+    ],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CGP 42446A", "identifier": "MESH:D000077211" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D000077211" },
+          { "identifier": "UMLS:C0528130" },
+          { "identifier": "name:CGP 42446A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D000077211"],
+          "UMLS": ["C0528130"],
+          "name": ["CGP 42446A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D000077211", "UMLS:C0528130"]
+      },
+      "original": "MESH:D000077211"
+    },
+    "label": "CGP 42446A",
+    "id": "MESH:D000077211"
+  },
+  {
+    "MESH": "C020549",
+    "pubmed": ["7834629"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "CHEBI:35859",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:7834629"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "ZOMEPIRAC", "identifier": "CHEBI:35859" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:35859" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL19490" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL266459" },
+          { "identifier": "DRUGBANK:DB04828" },
+          { "identifier": "PUBCHEM:5733" },
+          { "identifier": "PUBCHEM:5733" },
+          { "identifier": "MESH:C020549" },
+          {
+            "identifier": "INCHI:InChI=1S/C15H14ClNO3/c1-9-7-12(8-13(18)19)17(2)14(9)15(20)10-3-5-11(16)6-4-10/h3-7H,8H2,1-2H3,(H,18,19)"
+          },
+          { "identifier": "INCHIKEY:ZXVNMYWKKDOREA-UHFFFAOYSA-N" },
+          { "identifier": "UNII:822G987U9J" },
+          { "identifier": "UMLS:C0078840" },
+          { "identifier": "name:ZOMEPIRAC" },
+          { "identifier": "name:Zomepirac" },
+          { "identifier": "name:zomepirac" }
+        ],
+        "bte_ids": {
+          "CHEBI": ["CHEBI:35859"],
+          "CHEMBL.COMPOUND": ["CHEMBL19490", "CHEMBL266459"],
+          "DRUGBANK": ["DB04828"],
+          "PUBCHEM": [5733, "5733"],
+          "MESH": ["C020549"],
+          "INCHI": [
+            "InChI=1S/C15H14ClNO3/c1-9-7-12(8-13(18)19)17(2)14(9)15(20)10-3-5-11(16)6-4-10/h3-7H,8H2,1-2H3,(H,18,19)"
+          ],
+          "INCHIKEY": ["ZXVNMYWKKDOREA-UHFFFAOYSA-N"],
+          "UNII": ["822G987U9J"],
+          "UMLS": ["C0078840"],
+          "name": ["ZOMEPIRAC", "Zomepirac", "zomepirac"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEBI:35859",
+          "CHEMBL.COMPOUND:CHEMBL19490",
+          "CHEMBL.COMPOUND:CHEMBL266459",
+          "DRUGBANK:DB04828",
+          "PUBCHEM:5733",
+          "MESH:C020549",
+          "INCHI:InChI=1S/C15H14ClNO3/c1-9-7-12(8-13(18)19)17(2)14(9)15(20)10-3-5-11(16)6-4-10/h3-7H,8H2,1-2H3,(H,18,19)",
+          "INCHIKEY:ZXVNMYWKKDOREA-UHFFFAOYSA-N",
+          "UNII:822G987U9J",
+          "UMLS:C0078840"
+        ]
+      },
+      "original": "MESH:C020549"
+    },
+    "label": "ZOMEPIRAC",
+    "id": "CHEBI:35859"
+  },
+  {
+    "MESH": "C027368",
+    "pubmed": ["7834629"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:C027368",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:7834629"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": {
+          "label": "zomepirac glucuronide",
+          "identifier": "MESH:C027368"
+        },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:C027368" },
+          { "identifier": "UMLS:C0078841" },
+          { "identifier": "name:zomepirac glucuronide" }
+        ],
+        "bte_ids": {
+          "MESH": ["C027368"],
+          "UMLS": ["C0078841"],
+          "name": ["zomepirac glucuronide"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:C027368", "UMLS:C0078841"]
+      },
+      "original": "MESH:C027368"
+    },
+    "label": "zomepirac glucuronide",
+    "id": "MESH:C027368"
+  },
+  {
+    "MESH": "C067172",
+    "pubmed": ["22317767"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "CHEMBL.COMPOUND:CHEMBL10372",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:22317767"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": {
+          "label": "ZOPOLRESTAT",
+          "identifier": "CHEMBL.COMPOUND:CHEMBL10372"
+        },
+        "equivalent_identifiers": [
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL10372" },
+          { "identifier": "DRUGBANK:DB08772" },
+          { "identifier": "PUBCHEM:1613" },
+          { "identifier": "PUBCHEM:1613" },
+          { "identifier": "MESH:C067172" },
+          {
+            "identifier": "INCHI:InChI=1S/C19H12F3N3O3S/c20-19(21,22)10-5-6-15-14(7-10)23-16(29-15)9-25-18(28)12-4-2-1-3-11(12)13(24-25)8-17(26)27/h1-7H,8-9H2,(H,26,27)"
+          },
+          { "identifier": "INCHIKEY:BCSVCWVQNOXFGL-UHFFFAOYSA-N" },
+          { "identifier": "UNII:1PV3S9WP3D" },
+          { "identifier": "KEGG:C01865" },
+          { "identifier": "UMLS:C0085066" },
+          { "identifier": "name:ZOPOLRESTAT" },
+          { "identifier": "name:Zopolrestat" },
+          { "identifier": "name:zopolrestat" }
+        ],
+        "bte_ids": {
+          "CHEMBL.COMPOUND": ["CHEMBL10372"],
+          "DRUGBANK": ["DB08772"],
+          "PUBCHEM": [1613, "1613"],
+          "MESH": ["C067172"],
+          "INCHI": [
+            "InChI=1S/C19H12F3N3O3S/c20-19(21,22)10-5-6-15-14(7-10)23-16(29-15)9-25-18(28)12-4-2-1-3-11(12)13(24-25)8-17(26)27/h1-7H,8-9H2,(H,26,27)"
+          ],
+          "INCHIKEY": ["BCSVCWVQNOXFGL-UHFFFAOYSA-N"],
+          "UNII": ["1PV3S9WP3D"],
+          "KEGG": ["C01865"],
+          "UMLS": ["C0085066"],
+          "name": ["ZOPOLRESTAT", "Zopolrestat", "zopolrestat"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEMBL.COMPOUND:CHEMBL10372",
+          "DRUGBANK:DB08772",
+          "PUBCHEM:1613",
+          "MESH:C067172",
+          "INCHI:InChI=1S/C19H12F3N3O3S/c20-19(21,22)10-5-6-15-14(7-10)23-16(29-15)9-25-18(28)12-4-2-1-3-11(12)13(24-25)8-17(26)27/h1-7H,8-9H2,(H,26,27)",
+          "INCHIKEY:BCSVCWVQNOXFGL-UHFFFAOYSA-N",
+          "UNII:1PV3S9WP3D",
+          "KEGG:C01865",
+          "UMLS:C0085066"
+        ]
+      },
+      "original": "MESH:C067172"
+    },
+    "label": "ZOPOLRESTAT",
+    "id": "CHEMBL.COMPOUND:CHEMBL10372"
+  },
+  {
+    "MESH": "C067172",
+    "pubmed": ["7834629"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "CHEMBL.COMPOUND:CHEMBL10372",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:7834629"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": {
+          "label": "ZOPOLRESTAT",
+          "identifier": "CHEMBL.COMPOUND:CHEMBL10372"
+        },
+        "equivalent_identifiers": [
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL10372" },
+          { "identifier": "DRUGBANK:DB08772" },
+          { "identifier": "PUBCHEM:1613" },
+          { "identifier": "PUBCHEM:1613" },
+          { "identifier": "MESH:C067172" },
+          {
+            "identifier": "INCHI:InChI=1S/C19H12F3N3O3S/c20-19(21,22)10-5-6-15-14(7-10)23-16(29-15)9-25-18(28)12-4-2-1-3-11(12)13(24-25)8-17(26)27/h1-7H,8-9H2,(H,26,27)"
+          },
+          { "identifier": "INCHIKEY:BCSVCWVQNOXFGL-UHFFFAOYSA-N" },
+          { "identifier": "UNII:1PV3S9WP3D" },
+          { "identifier": "KEGG:C01865" },
+          { "identifier": "UMLS:C0085066" },
+          { "identifier": "name:ZOPOLRESTAT" },
+          { "identifier": "name:Zopolrestat" },
+          { "identifier": "name:zopolrestat" }
+        ],
+        "bte_ids": {
+          "CHEMBL.COMPOUND": ["CHEMBL10372"],
+          "DRUGBANK": ["DB08772"],
+          "PUBCHEM": [1613, "1613"],
+          "MESH": ["C067172"],
+          "INCHI": [
+            "InChI=1S/C19H12F3N3O3S/c20-19(21,22)10-5-6-15-14(7-10)23-16(29-15)9-25-18(28)12-4-2-1-3-11(12)13(24-25)8-17(26)27/h1-7H,8-9H2,(H,26,27)"
+          ],
+          "INCHIKEY": ["BCSVCWVQNOXFGL-UHFFFAOYSA-N"],
+          "UNII": ["1PV3S9WP3D"],
+          "KEGG": ["C01865"],
+          "UMLS": ["C0085066"],
+          "name": ["ZOPOLRESTAT", "Zopolrestat", "zopolrestat"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEMBL.COMPOUND:CHEMBL10372",
+          "DRUGBANK:DB08772",
+          "PUBCHEM:1613",
+          "MESH:C067172",
+          "INCHI:InChI=1S/C19H12F3N3O3S/c20-19(21,22)10-5-6-15-14(7-10)23-16(29-15)9-25-18(28)12-4-2-1-3-11(12)13(24-25)8-17(26)27/h1-7H,8-9H2,(H,26,27)",
+          "INCHIKEY:BCSVCWVQNOXFGL-UHFFFAOYSA-N",
+          "UNII:1PV3S9WP3D",
+          "KEGG:C01865",
+          "UMLS:C0085066"
+        ]
+      },
+      "original": "MESH:C067172"
+    },
+    "label": "ZOPOLRESTAT",
+    "id": "CHEMBL.COMPOUND:CHEMBL10372"
+  },
+  {
+    "MESH": "C067172",
+    "pubmed": ["12664575"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "CHEMBL.COMPOUND:CHEMBL10372",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:12664575"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": {
+          "label": "ZOPOLRESTAT",
+          "identifier": "CHEMBL.COMPOUND:CHEMBL10372"
+        },
+        "equivalent_identifiers": [
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL10372" },
+          { "identifier": "DRUGBANK:DB08772" },
+          { "identifier": "PUBCHEM:1613" },
+          { "identifier": "PUBCHEM:1613" },
+          { "identifier": "MESH:C067172" },
+          {
+            "identifier": "INCHI:InChI=1S/C19H12F3N3O3S/c20-19(21,22)10-5-6-15-14(7-10)23-16(29-15)9-25-18(28)12-4-2-1-3-11(12)13(24-25)8-17(26)27/h1-7H,8-9H2,(H,26,27)"
+          },
+          { "identifier": "INCHIKEY:BCSVCWVQNOXFGL-UHFFFAOYSA-N" },
+          { "identifier": "UNII:1PV3S9WP3D" },
+          { "identifier": "KEGG:C01865" },
+          { "identifier": "UMLS:C0085066" },
+          { "identifier": "name:ZOPOLRESTAT" },
+          { "identifier": "name:Zopolrestat" },
+          { "identifier": "name:zopolrestat" }
+        ],
+        "bte_ids": {
+          "CHEMBL.COMPOUND": ["CHEMBL10372"],
+          "DRUGBANK": ["DB08772"],
+          "PUBCHEM": [1613, "1613"],
+          "MESH": ["C067172"],
+          "INCHI": [
+            "InChI=1S/C19H12F3N3O3S/c20-19(21,22)10-5-6-15-14(7-10)23-16(29-15)9-25-18(28)12-4-2-1-3-11(12)13(24-25)8-17(26)27/h1-7H,8-9H2,(H,26,27)"
+          ],
+          "INCHIKEY": ["BCSVCWVQNOXFGL-UHFFFAOYSA-N"],
+          "UNII": ["1PV3S9WP3D"],
+          "KEGG": ["C01865"],
+          "UMLS": ["C0085066"],
+          "name": ["ZOPOLRESTAT", "Zopolrestat", "zopolrestat"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEMBL.COMPOUND:CHEMBL10372",
+          "DRUGBANK:DB08772",
+          "PUBCHEM:1613",
+          "MESH:C067172",
+          "INCHI:InChI=1S/C19H12F3N3O3S/c20-19(21,22)10-5-6-15-14(7-10)23-16(29-15)9-25-18(28)12-4-2-1-3-11(12)13(24-25)8-17(26)27/h1-7H,8-9H2,(H,26,27)",
+          "INCHIKEY:BCSVCWVQNOXFGL-UHFFFAOYSA-N",
+          "UNII:1PV3S9WP3D",
+          "KEGG:C01865",
+          "UMLS:C0085066"
+        ]
+      },
+      "original": "MESH:C067172"
+    },
+    "label": "ZOPOLRESTAT",
+    "id": "CHEMBL.COMPOUND:CHEMBL10372"
+  },
+  {
+    "MESH": "C067172",
+    "pubmed": ["18089796"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "CHEMBL.COMPOUND:CHEMBL10372",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:18089796"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": {
+          "label": "ZOPOLRESTAT",
+          "identifier": "CHEMBL.COMPOUND:CHEMBL10372"
+        },
+        "equivalent_identifiers": [
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL10372" },
+          { "identifier": "DRUGBANK:DB08772" },
+          { "identifier": "PUBCHEM:1613" },
+          { "identifier": "PUBCHEM:1613" },
+          { "identifier": "MESH:C067172" },
+          {
+            "identifier": "INCHI:InChI=1S/C19H12F3N3O3S/c20-19(21,22)10-5-6-15-14(7-10)23-16(29-15)9-25-18(28)12-4-2-1-3-11(12)13(24-25)8-17(26)27/h1-7H,8-9H2,(H,26,27)"
+          },
+          { "identifier": "INCHIKEY:BCSVCWVQNOXFGL-UHFFFAOYSA-N" },
+          { "identifier": "UNII:1PV3S9WP3D" },
+          { "identifier": "KEGG:C01865" },
+          { "identifier": "UMLS:C0085066" },
+          { "identifier": "name:ZOPOLRESTAT" },
+          { "identifier": "name:Zopolrestat" },
+          { "identifier": "name:zopolrestat" }
+        ],
+        "bte_ids": {
+          "CHEMBL.COMPOUND": ["CHEMBL10372"],
+          "DRUGBANK": ["DB08772"],
+          "PUBCHEM": [1613, "1613"],
+          "MESH": ["C067172"],
+          "INCHI": [
+            "InChI=1S/C19H12F3N3O3S/c20-19(21,22)10-5-6-15-14(7-10)23-16(29-15)9-25-18(28)12-4-2-1-3-11(12)13(24-25)8-17(26)27/h1-7H,8-9H2,(H,26,27)"
+          ],
+          "INCHIKEY": ["BCSVCWVQNOXFGL-UHFFFAOYSA-N"],
+          "UNII": ["1PV3S9WP3D"],
+          "KEGG": ["C01865"],
+          "UMLS": ["C0085066"],
+          "name": ["ZOPOLRESTAT", "Zopolrestat", "zopolrestat"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEMBL.COMPOUND:CHEMBL10372",
+          "DRUGBANK:DB08772",
+          "PUBCHEM:1613",
+          "MESH:C067172",
+          "INCHI:InChI=1S/C19H12F3N3O3S/c20-19(21,22)10-5-6-15-14(7-10)23-16(29-15)9-25-18(28)12-4-2-1-3-11(12)13(24-25)8-17(26)27/h1-7H,8-9H2,(H,26,27)",
+          "INCHIKEY:BCSVCWVQNOXFGL-UHFFFAOYSA-N",
+          "UNII:1PV3S9WP3D",
+          "KEGG:C01865",
+          "UMLS:C0085066"
+        ]
+      },
+      "original": "MESH:C067172"
+    },
+    "label": "ZOPOLRESTAT",
+    "id": "CHEMBL.COMPOUND:CHEMBL10372"
+  },
+  {
+    "MESH": "C510150",
+    "pubmed": ["23797736"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:C510150",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:23797736"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "ZSTK474", "identifier": "MESH:C510150" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:C510150" },
+          { "identifier": "UMLS:C1721602" },
+          { "identifier": "name:ZSTK474" }
+        ],
+        "bte_ids": {
+          "MESH": ["C510150"],
+          "UMLS": ["C1721602"],
+          "name": ["ZSTK474"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:C510150", "UMLS:C1721602"]
+      },
+      "original": "MESH:C510150"
+    },
+    "label": "ZSTK474",
+    "id": "MESH:C510150"
+  },
+  {
+    "MESH": "C510150",
+    "pubmed": ["23797736"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:C510150",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:23797736"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "ZSTK474", "identifier": "MESH:C510150" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:C510150" },
+          { "identifier": "UMLS:C1721602" },
+          { "identifier": "name:ZSTK474" }
+        ],
+        "bte_ids": {
+          "MESH": ["C510150"],
+          "UMLS": ["C1721602"],
+          "name": ["ZSTK474"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:C510150", "UMLS:C1721602"]
+      },
+      "original": "MESH:C510150"
+    },
+    "label": "ZSTK474",
+    "id": "MESH:C510150"
+  },
+  {
+    "MESH": "C519312",
+    "pubmed": ["12664575"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:C519312",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:12664575"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "Zyflamend", "identifier": "MESH:C519312" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:C519312" },
+          { "identifier": "UMLS:C1956582" },
+          { "identifier": "name:Zyflamend" }
+        ],
+        "bte_ids": {
+          "MESH": ["C519312"],
+          "UMLS": ["C1956582"],
+          "name": ["Zyflamend"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:C519312", "UMLS:C1956582"]
+      },
+      "original": "MESH:C519312"
+    },
+    "label": "Zyflamend",
+    "id": "MESH:C519312"
+  },
+  {
+    "MESH": "C519312",
+    "pubmed": ["18089796"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:C519312",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:18089796"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "Zyflamend", "identifier": "MESH:C519312" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:C519312" },
+          { "identifier": "UMLS:C1956582" },
+          { "identifier": "name:Zyflamend" }
+        ],
+        "bte_ids": {
+          "MESH": ["C519312"],
+          "UMLS": ["C1956582"],
+          "name": ["Zyflamend"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:C519312", "UMLS:C1956582"]
+      },
+      "original": "MESH:C519312"
+    },
+    "label": "Zyflamend",
+    "id": "MESH:C519312"
+  },
+  {
+    "MESH": "D015054",
+    "pubmed": ["30258081"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D015054",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:30258081"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "Zymosan A", "identifier": "MESH:D015054" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D015054" },
+          { "identifier": "UMLS:C0043553" },
+          { "identifier": "name:Zymosan A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D015054"],
+          "UMLS": ["C0043553"],
+          "name": ["Zymosan A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D015054", "UMLS:C0043553"]
+      },
+      "original": "MESH:D015054"
+    },
+    "label": "Zymosan A",
+    "id": "MESH:D015054"
+  },
+  {
+    "MESH": "D015054",
+    "pubmed": ["7834629"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D015054",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:7834629"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "Zymosan A", "identifier": "MESH:D015054" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D015054" },
+          { "identifier": "UMLS:C0043553" },
+          { "identifier": "name:Zymosan A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D015054"],
+          "UMLS": ["C0043553"],
+          "name": ["Zymosan A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D015054", "UMLS:C0043553"]
+      },
+      "original": "MESH:D015054"
+    },
+    "label": "Zymosan A",
+    "id": "MESH:D015054"
+  },
+  {
+    "MESH": "D015054",
+    "pubmed": ["2844640"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D015054",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:2844640"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "Zymosan A", "identifier": "MESH:D015054" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D015054" },
+          { "identifier": "UMLS:C0043553" },
+          { "identifier": "name:Zymosan A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D015054"],
+          "UMLS": ["C0043553"],
+          "name": ["Zymosan A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D015054", "UMLS:C0043553"]
+      },
+      "original": "MESH:D015054"
+    },
+    "label": "Zymosan A",
+    "id": "MESH:D015054"
+  },
+  {
+    "MESH": "D015054",
+    "pubmed": ["12664575"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D015054",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:12664575"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "Zymosan A", "identifier": "MESH:D015054" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D015054" },
+          { "identifier": "UMLS:C0043553" },
+          { "identifier": "name:Zymosan A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D015054"],
+          "UMLS": ["C0043553"],
+          "name": ["Zymosan A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D015054", "UMLS:C0043553"]
+      },
+      "original": "MESH:D015054"
+    },
+    "label": "Zymosan A",
+    "id": "MESH:D015054"
+  },
+  {
+    "MESH": "D015054",
+    "pubmed": ["18089796"],
+    "$association": {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "ctd",
+      "api_name": "mydisease.info API",
+      "smartapi": {
+        "id": "671b45c0301c8624abbd26ae78449ca2",
+        "meta": {
+          "ETag": "8a3ddbc3f740369fa6f6c26b4dbb0e62a214445e416e6982fca329013679fa60",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-05-27T16:55:43.146979",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:14.182320",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/mydisease.info/smartapi.yaml"
+        }
+      }
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D015054",
+    "$original_input": { "MESH:D002292": "MONDO:0005086" },
+    "api": "mydisease.info API",
+    "provided_by": "ctd",
+    "publications": ["PMID:18089796"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "Zymosan A", "identifier": "MESH:D015054" },
+        "equivalent_identifiers": [
+          { "identifier": "MESH:D015054" },
+          { "identifier": "UMLS:C0043553" },
+          { "identifier": "name:Zymosan A" }
+        ],
+        "bte_ids": {
+          "MESH": ["D015054"],
+          "UMLS": ["C0043553"],
+          "name": ["Zymosan A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": ["MESH:D015054", "UMLS:C0043553"]
+      },
+      "original": "MESH:D015054"
+    },
+    "label": "Zymosan A",
+    "id": "MESH:D015054"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC6535905"],
+    "CHEBI": "CHEBI:15377",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:15377",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC6535905"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "WATER", "identifier": "CHEBI:15377" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:15377" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL1098659" },
+          { "identifier": "DRUGBANK:DB09145" },
+          { "identifier": "PUBCHEM:962" },
+          { "identifier": "PUBCHEM:962" },
+          { "identifier": "MESH:D014867" },
+          { "identifier": "INCHI:InChI=1S/H2O/h1H2" },
+          { "identifier": "INCHIKEY:XLYOFNOQVPJJNP-UHFFFAOYSA-N" },
+          { "identifier": "UNII:059QF0KO0R" },
+          { "identifier": "KEGG:C00001" },
+          { "identifier": "UMLS:C0043047" },
+          { "identifier": "name:WATER" },
+          { "identifier": "name:Water" }
+        ],
+        "bte_ids": {
+          "CHEBI": ["CHEBI:15377"],
+          "CHEMBL.COMPOUND": ["CHEMBL1098659"],
+          "DRUGBANK": ["DB09145"],
+          "PUBCHEM": [962, "962"],
+          "MESH": ["D014867"],
+          "INCHI": ["InChI=1S/H2O/h1H2"],
+          "INCHIKEY": ["XLYOFNOQVPJJNP-UHFFFAOYSA-N"],
+          "UNII": ["059QF0KO0R"],
+          "KEGG": ["C00001"],
+          "UMLS": ["C0043047"],
+          "name": ["WATER", "Water"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEBI:15377",
+          "CHEMBL.COMPOUND:CHEMBL1098659",
+          "DRUGBANK:DB09145",
+          "PUBCHEM:962",
+          "MESH:D014867",
+          "INCHI:InChI=1S/H2O/h1H2",
+          "INCHIKEY:XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+          "UNII:059QF0KO0R",
+          "KEGG:C00001",
+          "UMLS:C0043047"
+        ]
+      },
+      "original": "CHEBI:15377"
+    },
+    "label": "WATER",
+    "id": "CHEBI:15377"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC6618115"],
+    "CHEBI": "CHEBI:17478",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:17478",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC6618115"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "aldehyde", "identifier": "CHEBI:17478" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:17478" },
+          { "identifier": "name:aldehyde" }
+        ],
+        "bte_ids": { "CHEBI": ["CHEBI:17478"], "name": ["aldehyde"] },
+        "type": "ChemicalSubstance",
+        "ids": ["CHEBI:17478"]
+      },
+      "original": "CHEBI:17478"
+    },
+    "label": "aldehyde",
+    "id": "CHEBI:17478"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": [
+      "PMC6461937",
+      "PMC6534100",
+      "PMC6535905",
+      "PMC6759112",
+      "PMC6836299"
+    ],
+    "CHEBI": "CHEBI:26519",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:26519",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": [
+      "PMC:PMC6461937",
+      "PMC:PMC6534100",
+      "PMC:PMC6535905",
+      "PMC:PMC6759112",
+      "PMC:PMC6836299"
+    ],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "identifier": "CHEBI:26519", "label": "CHEBI:26519" },
+        "ids": ["CHEBI:26519"],
+        "bte_ids": { "CHEBI": ["CHEBI:26519"] },
+        "equivalent_identifiers": [{ "identifier": "CHEBI:26519" }],
+        "type": "ChemicalSubstance",
+        "flag": "failed"
+      },
+      "original": "CHEBI:26519"
+    },
+    "label": "CHEBI:26519",
+    "id": "CHEBI:26519"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC6539010"],
+    "CHEBI": "CHEBI:15358",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:15358",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC6539010"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "identifier": "CHEBI:15358", "label": "CHEBI:15358" },
+        "ids": ["CHEBI:15358"],
+        "bte_ids": { "CHEBI": ["CHEBI:15358"] },
+        "equivalent_identifiers": [{ "identifier": "CHEBI:15358" }],
+        "type": "ChemicalSubstance",
+        "flag": "failed"
+      },
+      "original": "CHEBI:15358"
+    },
+    "label": "CHEBI:15358",
+    "id": "CHEBI:15358"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC6461824"],
+    "CHEBI": "CHEBI:30879",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:30879",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC6461824"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "alcohol", "identifier": "CHEBI:30879" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:30879" },
+          { "identifier": "name:alcohol" }
+        ],
+        "bte_ids": { "CHEBI": ["CHEBI:30879"], "name": ["alcohol"] },
+        "type": "ChemicalSubstance",
+        "ids": ["CHEBI:30879"]
+      },
+      "original": "CHEBI:30879"
+    },
+    "label": "alcohol",
+    "id": "CHEBI:30879"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC3533940"],
+    "CHEBI": "CHEBI:46557",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:46557",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC3533940"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "ZOLEDRONIC ACID", "identifier": "CHEBI:46557" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:46557" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL924" },
+          { "identifier": "DRUGBANK:DB00399" },
+          { "identifier": "PUBCHEM:68740" },
+          { "identifier": "PUBCHEM:68740" },
+          { "identifier": "MESH:C088658" },
+          {
+            "identifier": "INCHI:InChI=1S/C5H10N2O7P2/c8-5(15(9,10)11,16(12,13)14)3-7-2-1-6-4-7/h1-2,4,8H,3H2,(H2,9,10,11)(H2,12,13,14)"
+          },
+          { "identifier": "INCHIKEY:XRASPMIURGNCCH-UHFFFAOYSA-N" },
+          { "identifier": "UNII:6XC1PAD3KF" },
+          { "identifier": "UNII:70HZ18PH24" },
+          { "identifier": "UMLS:C0257685" },
+          { "identifier": "name:ZOLEDRONIC ACID" },
+          { "identifier": "name:Zoledronic acid" },
+          { "identifier": "name:ZOLEDRONIC ACID ANHYDROUS" },
+          { "identifier": "name:zoledronate" }
+        ],
+        "bte_ids": {
+          "CHEBI": ["CHEBI:46557"],
+          "CHEMBL.COMPOUND": ["CHEMBL924"],
+          "DRUGBANK": ["DB00399"],
+          "PUBCHEM": [68740, "68740"],
+          "MESH": ["C088658"],
+          "INCHI": [
+            "InChI=1S/C5H10N2O7P2/c8-5(15(9,10)11,16(12,13)14)3-7-2-1-6-4-7/h1-2,4,8H,3H2,(H2,9,10,11)(H2,12,13,14)"
+          ],
+          "INCHIKEY": ["XRASPMIURGNCCH-UHFFFAOYSA-N"],
+          "UNII": ["6XC1PAD3KF", "70HZ18PH24"],
+          "UMLS": ["C0257685"],
+          "name": [
+            "ZOLEDRONIC ACID",
+            "Zoledronic acid",
+            "ZOLEDRONIC ACID ANHYDROUS",
+            "zoledronate"
+          ]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEBI:46557",
+          "CHEMBL.COMPOUND:CHEMBL924",
+          "DRUGBANK:DB00399",
+          "PUBCHEM:68740",
+          "MESH:C088658",
+          "INCHI:InChI=1S/C5H10N2O7P2/c8-5(15(9,10)11,16(12,13)14)3-7-2-1-6-4-7/h1-2,4,8H,3H2,(H2,9,10,11)(H2,12,13,14)",
+          "INCHIKEY:XRASPMIURGNCCH-UHFFFAOYSA-N",
+          "UNII:6XC1PAD3KF",
+          "UNII:70HZ18PH24",
+          "UMLS:C0257685"
+        ]
+      },
+      "original": "CHEBI:46557"
+    },
+    "label": "ZOLEDRONIC ACID",
+    "id": "CHEBI:46557"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC3822965"],
+    "CHEBI": "CHEBI:18295",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:18295",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC3822965"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "HISTAMINE", "identifier": "CHEBI:18295" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:18295" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL90" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL1200801" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL1533310" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL535166" },
+          { "identifier": "DRUGBANK:DB05381" },
+          { "identifier": "PUBCHEM:774" },
+          { "identifier": "PUBCHEM:774" },
+          { "identifier": "MESH:D006632" },
+          {
+            "identifier": "INCHI:InChI=1S/C5H9N3/c6-2-1-5-3-7-4-8-5/h3-4H,1-2,6H2,(H,7,8)"
+          },
+          { "identifier": "INCHIKEY:NTYJJOPFIAHURM-UHFFFAOYSA-N" },
+          { "identifier": "UNII:3POA0Q644U" },
+          { "identifier": "UNII:820484N8I3" },
+          { "identifier": "KEGG:C00388" },
+          { "identifier": "UMLS:C0019588" },
+          { "identifier": "name:HISTAMINE" },
+          { "identifier": "name:Histamine" }
+        ],
+        "bte_ids": {
+          "CHEBI": ["CHEBI:18295"],
+          "CHEMBL.COMPOUND": [
+            "CHEMBL90",
+            "CHEMBL1200801",
+            "CHEMBL1533310",
+            "CHEMBL535166"
+          ],
+          "DRUGBANK": ["DB05381"],
+          "PUBCHEM": [774, "774"],
+          "MESH": ["D006632"],
+          "INCHI": ["InChI=1S/C5H9N3/c6-2-1-5-3-7-4-8-5/h3-4H,1-2,6H2,(H,7,8)"],
+          "INCHIKEY": ["NTYJJOPFIAHURM-UHFFFAOYSA-N"],
+          "UNII": ["3POA0Q644U", "820484N8I3"],
+          "KEGG": ["C00388"],
+          "UMLS": ["C0019588"],
+          "name": ["HISTAMINE", "Histamine"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEBI:18295",
+          "CHEMBL.COMPOUND:CHEMBL90",
+          "CHEMBL.COMPOUND:CHEMBL1200801",
+          "CHEMBL.COMPOUND:CHEMBL1533310",
+          "CHEMBL.COMPOUND:CHEMBL535166",
+          "DRUGBANK:DB05381",
+          "PUBCHEM:774",
+          "MESH:D006632",
+          "INCHI:InChI=1S/C5H9N3/c6-2-1-5-3-7-4-8-5/h3-4H,1-2,6H2,(H,7,8)",
+          "INCHIKEY:NTYJJOPFIAHURM-UHFFFAOYSA-N",
+          "UNII:3POA0Q644U",
+          "UNII:820484N8I3",
+          "KEGG:C00388",
+          "UMLS:C0019588"
+        ]
+      },
+      "original": "CHEBI:18295"
+    },
+    "label": "HISTAMINE",
+    "id": "CHEBI:18295"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC3822965"],
+    "CHEBI": "CHEBI:26523",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:26523",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC3822965"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "identifier": "CHEBI:26523", "label": "CHEBI:26523" },
+        "ids": ["CHEBI:26523"],
+        "bte_ids": { "CHEBI": ["CHEBI:26523"] },
+        "equivalent_identifiers": [{ "identifier": "CHEBI:26523" }],
+        "type": "ChemicalSubstance",
+        "flag": "failed"
+      },
+      "original": "CHEBI:26523"
+    },
+    "label": "CHEBI:26523",
+    "id": "CHEBI:26523"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC6535752"],
+    "CHEBI": "CHEBI:72317",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:72317",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC6535752"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "CABOZANTINIB", "identifier": "CHEBI:72317" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:72317" },
+          { "identifier": "CHEBI:72319" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL2105717" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL2103868" },
+          { "identifier": "DRUGBANK:DB08875" },
+          { "identifier": "PUBCHEM:25102847" },
+          { "identifier": "PUBCHEM:25102847" },
+          { "identifier": "MESH:C558660" },
+          {
+            "identifier": "INCHI:InChI=1S/C28H24FN3O5/c1-35-24-15-21-22(16-25(24)36-2)30-14-11-23(21)37-20-9-7-19(8-10-20)32-27(34)28(12-13-28)26(33)31-18-5-3-17(29)4-6-18/h3-11,14-16H,12-13H2,1-2H3,(H,31,33)(H,32,34)"
+          },
+          { "identifier": "INCHIKEY:ONIQOQHATWINJY-UHFFFAOYSA-N" },
+          { "identifier": "UNII:1C39JW444G" },
+          { "identifier": "UMLS:C3181682" },
+          { "identifier": "name:CABOZANTINIB" },
+          { "identifier": "name:Cabozantinib" },
+          { "identifier": "name:cabozantinib" }
+        ],
+        "bte_ids": {
+          "CHEBI": ["CHEBI:72317", "CHEBI:72319"],
+          "CHEMBL.COMPOUND": ["CHEMBL2105717", "CHEMBL2103868"],
+          "DRUGBANK": ["DB08875"],
+          "PUBCHEM": [25102847, "25102847"],
+          "MESH": ["C558660"],
+          "INCHI": [
+            "InChI=1S/C28H24FN3O5/c1-35-24-15-21-22(16-25(24)36-2)30-14-11-23(21)37-20-9-7-19(8-10-20)32-27(34)28(12-13-28)26(33)31-18-5-3-17(29)4-6-18/h3-11,14-16H,12-13H2,1-2H3,(H,31,33)(H,32,34)"
+          ],
+          "INCHIKEY": ["ONIQOQHATWINJY-UHFFFAOYSA-N"],
+          "UNII": ["1C39JW444G"],
+          "UMLS": ["C3181682"],
+          "name": ["CABOZANTINIB", "Cabozantinib", "cabozantinib"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEBI:72317",
+          "CHEBI:72319",
+          "CHEMBL.COMPOUND:CHEMBL2105717",
+          "CHEMBL.COMPOUND:CHEMBL2103868",
+          "DRUGBANK:DB08875",
+          "PUBCHEM:25102847",
+          "MESH:C558660",
+          "INCHI:InChI=1S/C28H24FN3O5/c1-35-24-15-21-22(16-25(24)36-2)30-14-11-23(21)37-20-9-7-19(8-10-20)32-27(34)28(12-13-28)26(33)31-18-5-3-17(29)4-6-18/h3-11,14-16H,12-13H2,1-2H3,(H,31,33)(H,32,34)",
+          "INCHIKEY:ONIQOQHATWINJY-UHFFFAOYSA-N",
+          "UNII:1C39JW444G",
+          "UMLS:C3181682"
+        ]
+      },
+      "original": "CHEBI:72317"
+    },
+    "label": "CABOZANTINIB",
+    "id": "CHEBI:72317"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC1780053", "PMC3164726", "PMC6521104", "PMC6539010"],
+    "CHEBI": "CHEBI:35222",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:35222",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": [
+      "PMC:PMC1780053",
+      "PMC:PMC3164726",
+      "PMC:PMC6521104",
+      "PMC:PMC6539010"
+    ],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "identifier": "CHEBI:35222", "label": "CHEBI:35222" },
+        "ids": ["CHEBI:35222"],
+        "bte_ids": { "CHEBI": ["CHEBI:35222"] },
+        "equivalent_identifiers": [{ "identifier": "CHEBI:35222" }],
+        "type": "ChemicalSubstance",
+        "flag": "failed"
+      },
+      "original": "CHEBI:35222"
+    },
+    "label": "CHEBI:35222",
+    "id": "CHEBI:35222"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": [
+      "PMC3164726",
+      "PMC3297200",
+      "PMC3388483",
+      "PMC6546772",
+      "PMC6658393",
+      "PMC6764113"
+    ],
+    "CHEBI": "CHEBI:50924",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:50924",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": [
+      "PMC:PMC3164726",
+      "PMC:PMC3297200",
+      "PMC:PMC3388483",
+      "PMC:PMC6546772",
+      "PMC:PMC6658393",
+      "PMC:PMC6764113"
+    ],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "SORAFENIB", "identifier": "CHEBI:50924" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:50924" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL1336" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL1200485" },
+          { "identifier": "DRUGBANK:DB00398" },
+          { "identifier": "PUBCHEM:216239" },
+          { "identifier": "PUBCHEM:216239" },
+          { "identifier": "MESH:D000077157" },
+          { "identifier": "MESH:C471405" },
+          {
+            "identifier": "INCHI:InChI=1S/C21H16ClF3N4O3/c1-26-19(30)18-11-15(8-9-27-18)32-14-5-2-12(3-6-14)28-20(31)29-13-4-7-17(22)16(10-13)21(23,24)25/h2-11H,1H3,(H,26,30)(H2,28,29,31)"
+          },
+          { "identifier": "INCHIKEY:MLDQJTXFUGDVEO-UHFFFAOYSA-N" },
+          { "identifier": "UNII:5T62Q3B36J" },
+          { "identifier": "UNII:9ZOQ3TZI87" },
+          { "identifier": "UMLS:C1516119" },
+          { "identifier": "name:SORAFENIB" },
+          { "identifier": "name:Sorafenib" },
+          { "identifier": "name:sorafenib" }
+        ],
+        "bte_ids": {
+          "CHEBI": ["CHEBI:50924"],
+          "CHEMBL.COMPOUND": ["CHEMBL1336", "CHEMBL1200485"],
+          "DRUGBANK": ["DB00398"],
+          "PUBCHEM": [216239, "216239"],
+          "MESH": ["D000077157", "C471405"],
+          "INCHI": [
+            "InChI=1S/C21H16ClF3N4O3/c1-26-19(30)18-11-15(8-9-27-18)32-14-5-2-12(3-6-14)28-20(31)29-13-4-7-17(22)16(10-13)21(23,24)25/h2-11H,1H3,(H,26,30)(H2,28,29,31)"
+          ],
+          "INCHIKEY": ["MLDQJTXFUGDVEO-UHFFFAOYSA-N"],
+          "UNII": ["5T62Q3B36J", "9ZOQ3TZI87"],
+          "UMLS": ["C1516119"],
+          "name": ["SORAFENIB", "Sorafenib", "sorafenib"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEBI:50924",
+          "CHEMBL.COMPOUND:CHEMBL1336",
+          "CHEMBL.COMPOUND:CHEMBL1200485",
+          "DRUGBANK:DB00398",
+          "PUBCHEM:216239",
+          "MESH:D000077157",
+          "MESH:C471405",
+          "INCHI:InChI=1S/C21H16ClF3N4O3/c1-26-19(30)18-11-15(8-9-27-18)32-14-5-2-12(3-6-14)28-20(31)29-13-4-7-17(22)16(10-13)21(23,24)25/h2-11H,1H3,(H,26,30)(H2,28,29,31)",
+          "INCHIKEY:MLDQJTXFUGDVEO-UHFFFAOYSA-N",
+          "UNII:5T62Q3B36J",
+          "UNII:9ZOQ3TZI87",
+          "UMLS:C1516119"
+        ]
+      },
+      "original": "CHEBI:50924"
+    },
+    "label": "SORAFENIB",
+    "id": "CHEBI:50924"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC3297200", "PMC6484704", "PMC6764113"],
+    "CHEBI": "CHEBI:79699",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:79699",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC3297200", "PMC:PMC6484704", "PMC:PMC6764113"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "TEMSIROLIMUS", "identifier": "CHEBI:79699" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:79699" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL1201182" },
+          { "identifier": "DRUGBANK:DB00877" },
+          { "identifier": "DRUGBANK:DB06287" },
+          { "identifier": "PUBCHEM:6918289" },
+          { "identifier": "PUBCHEM:23724530" },
+          { "identifier": "PUBCHEM:6918289" },
+          { "identifier": "MESH:C401859" },
+          {
+            "identifier": "INCHI:InChI=1S/C56H87NO16/c1-33-17-13-12-14-18-34(2)45(68-9)29-41-22-20-39(7)56(67,73-41)51(63)52(64)57-24-16-15-19-42(57)53(65)71-46(30-43(60)35(3)26-38(6)49(62)50(70-11)48(61)37(5)25-33)36(4)27-40-21-23-44(47(28-40)69-10)72-54(66)55(8,31-58)32-59/h12-14,17-18,26,33,35-37,39-42,44-47,49-50,58-59,62,67H,15-16,19-25,27-32H2,1-11H3/b14-12+,17-13+,34-18+,38-26+/t33-,35-,36-,37-,39-,40+,41+,42+,44-,45+,46+,47-,49-,50+,56-/m1/s1"
+          },
+          { "identifier": "INCHIKEY:CBPNZQVSJQDFBE-FUXHJELOSA-N" },
+          { "identifier": "UNII:624KN6GM2T" },
+          { "identifier": "KEGG:C15182" },
+          { "identifier": "UMLS:C1707080" },
+          { "identifier": "UMLS:C0796512" },
+          { "identifier": "name:TEMSIROLIMUS" },
+          { "identifier": "name:Temsirolimus" },
+          { "identifier": "name:CCI 779" },
+          { "identifier": "name:temsirolimus" }
+        ],
+        "bte_ids": {
+          "CHEBI": ["CHEBI:79699"],
+          "CHEMBL.COMPOUND": ["CHEMBL1201182"],
+          "DRUGBANK": ["DB00877", "DB06287"],
+          "PUBCHEM": [6918289, "23724530", "6918289"],
+          "MESH": ["C401859"],
+          "INCHI": [
+            "InChI=1S/C56H87NO16/c1-33-17-13-12-14-18-34(2)45(68-9)29-41-22-20-39(7)56(67,73-41)51(63)52(64)57-24-16-15-19-42(57)53(65)71-46(30-43(60)35(3)26-38(6)49(62)50(70-11)48(61)37(5)25-33)36(4)27-40-21-23-44(47(28-40)69-10)72-54(66)55(8,31-58)32-59/h12-14,17-18,26,33,35-37,39-42,44-47,49-50,58-59,62,67H,15-16,19-25,27-32H2,1-11H3/b14-12+,17-13+,34-18+,38-26+/t33-,35-,36-,37-,39-,40+,41+,42+,44-,45+,46+,47-,49-,50+,56-/m1/s1"
+          ],
+          "INCHIKEY": ["CBPNZQVSJQDFBE-FUXHJELOSA-N"],
+          "UNII": ["624KN6GM2T"],
+          "KEGG": ["C15182"],
+          "UMLS": ["C1707080", "C0796512"],
+          "name": ["TEMSIROLIMUS", "Temsirolimus", "CCI 779", "temsirolimus"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEBI:79699",
+          "CHEMBL.COMPOUND:CHEMBL1201182",
+          "DRUGBANK:DB00877",
+          "DRUGBANK:DB06287",
+          "PUBCHEM:6918289",
+          "PUBCHEM:23724530",
+          "MESH:C401859",
+          "INCHI:InChI=1S/C56H87NO16/c1-33-17-13-12-14-18-34(2)45(68-9)29-41-22-20-39(7)56(67,73-41)51(63)52(64)57-24-16-15-19-42(57)53(65)71-46(30-43(60)35(3)26-38(6)49(62)50(70-11)48(61)37(5)25-33)36(4)27-40-21-23-44(47(28-40)69-10)72-54(66)55(8,31-58)32-59/h12-14,17-18,26,33,35-37,39-42,44-47,49-50,58-59,62,67H,15-16,19-25,27-32H2,1-11H3/b14-12+,17-13+,34-18+,38-26+/t33-,35-,36-,37-,39-,40+,41+,42+,44-,45+,46+,47-,49-,50+,56-/m1/s1",
+          "INCHIKEY:CBPNZQVSJQDFBE-FUXHJELOSA-N",
+          "UNII:624KN6GM2T",
+          "KEGG:C15182",
+          "UMLS:C1707080",
+          "UMLS:C0796512"
+        ]
+      },
+      "original": "CHEBI:79699"
+    },
+    "label": "TEMSIROLIMUS",
+    "id": "CHEBI:79699"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC6535905"],
+    "CHEBI": "CHEBI:30050",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:30050",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC6535905"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "GOLD", "identifier": "CHEBI:30050" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:30050" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL3137693" },
+          { "identifier": "DRUGBANK:DB14154" },
+          { "identifier": "PUBCHEM:23985" },
+          { "identifier": "MESH:D006046" },
+          { "identifier": "INCHI:InChI=1S/Au" },
+          { "identifier": "INCHIKEY:PCHJSUWPFVWCPO-UHFFFAOYSA-N" },
+          { "identifier": "UNII:79Y1949PYO" },
+          { "identifier": "UMLS:C0018026" },
+          { "identifier": "name:GOLD" },
+          { "identifier": "name:Gold" }
+        ],
+        "bte_ids": {
+          "CHEBI": ["CHEBI:30050"],
+          "CHEMBL.COMPOUND": ["CHEMBL3137693"],
+          "DRUGBANK": ["DB14154"],
+          "PUBCHEM": [23985],
+          "MESH": ["D006046"],
+          "INCHI": ["InChI=1S/Au"],
+          "INCHIKEY": ["PCHJSUWPFVWCPO-UHFFFAOYSA-N"],
+          "UNII": ["79Y1949PYO"],
+          "UMLS": ["C0018026"],
+          "name": ["GOLD", "Gold"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEBI:30050",
+          "CHEMBL.COMPOUND:CHEMBL3137693",
+          "DRUGBANK:DB14154",
+          "PUBCHEM:23985",
+          "MESH:D006046",
+          "INCHI:InChI=1S/Au",
+          "INCHIKEY:PCHJSUWPFVWCPO-UHFFFAOYSA-N",
+          "UNII:79Y1949PYO",
+          "UMLS:C0018026"
+        ]
+      },
+      "original": "CHEBI:30050"
+    },
+    "label": "GOLD",
+    "id": "CHEBI:30050"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC3388483"],
+    "CHEBI": "CHEBI:35224",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:35224",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC3388483"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "identifier": "CHEBI:35224", "label": "CHEBI:35224" },
+        "ids": ["CHEBI:35224"],
+        "bte_ids": { "CHEBI": ["CHEBI:35224"] },
+        "equivalent_identifiers": [{ "identifier": "CHEBI:35224" }],
+        "type": "ChemicalSubstance",
+        "flag": "failed"
+      },
+      "original": "CHEBI:35224"
+    },
+    "label": "CHEBI:35224",
+    "id": "CHEBI:35224"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC6535752", "PMC6659517", "PMC6761240"],
+    "CHEBI": "CHEBI:9584",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:9584",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC6535752", "PMC:PMC6659517", "PMC:PMC6761240"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "identifier": "CHEBI:9584", "label": "CHEBI:9584" },
+        "ids": ["CHEBI:9584"],
+        "bte_ids": { "CHEBI": ["CHEBI:9584"] },
+        "equivalent_identifiers": [{ "identifier": "CHEBI:9584" }],
+        "type": "ChemicalSubstance",
+        "flag": "failed"
+      },
+      "original": "CHEBI:9584"
+    },
+    "label": "CHEBI:9584",
+    "id": "CHEBI:9584"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC6544647"],
+    "CHEBI": "CHEBI:35225",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:35225",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC6544647"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "identifier": "CHEBI:35225", "label": "CHEBI:35225" },
+        "ids": ["CHEBI:35225"],
+        "bte_ids": { "CHEBI": ["CHEBI:35225"] },
+        "equivalent_identifiers": [{ "identifier": "CHEBI:35225" }],
+        "type": "ChemicalSubstance",
+        "flag": "failed"
+      },
+      "original": "CHEBI:35225"
+    },
+    "label": "CHEBI:35225",
+    "id": "CHEBI:35225"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC3824539", "PMC6539010"],
+    "CHEBI": "CHEBI:32875",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:32875",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC3824539", "PMC:PMC6539010"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "methyl group", "identifier": "CHEBI:32875" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:32875" },
+          { "identifier": "name:methyl group" }
+        ],
+        "bte_ids": { "CHEBI": ["CHEBI:32875"], "name": ["methyl group"] },
+        "type": "ChemicalSubstance",
+        "ids": ["CHEBI:32875"]
+      },
+      "original": "CHEBI:32875"
+    },
+    "label": "methyl group",
+    "id": "CHEBI:32875"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC3297200", "PMC6484704", "PMC6521104"],
+    "CHEBI": "CHEBI:68478",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:68478",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC3297200", "PMC:PMC6484704", "PMC:PMC6521104"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "EVEROLIMUS", "identifier": "CHEBI:68478" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:68478" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL1908360" },
+          { "identifier": "DRUGBANK:DB01590" },
+          { "identifier": "PUBCHEM:6442177" },
+          { "identifier": "PUBCHEM:6442177" },
+          { "identifier": "MESH:D000068338" },
+          { "identifier": "MESH:C107135" },
+          {
+            "identifier": "INCHI:InChI=1S/C53H83NO14/c1-32-16-12-11-13-17-33(2)44(63-8)30-40-21-19-38(7)53(62,68-40)50(59)51(60)54-23-15-14-18-41(54)52(61)67-45(35(4)28-39-20-22-43(66-25-24-55)46(29-39)64-9)31-42(56)34(3)27-37(6)48(58)49(65-10)47(57)36(5)26-32/h11-13,16-17,27,32,34-36,38-41,43-46,48-49,55,58,62H,14-15,18-26,28-31H2,1-10H3/b13-11+,16-12+,33-17+,37-27+/t32-,34-,35-,36-,38-,39+,40+,41+,43-,44+,45+,46-,48-,49+,53-/m1/s1"
+          },
+          { "identifier": "INCHIKEY:HKVAMNSJSFKALM-GKUWKFKPSA-N" },
+          { "identifier": "UNII:9HW64Q8G6G" },
+          { "identifier": "UMLS:C0541315" },
+          { "identifier": "name:EVEROLIMUS" },
+          { "identifier": "name:Everolimus" },
+          { "identifier": "name:everolimus" }
+        ],
+        "bte_ids": {
+          "CHEBI": ["CHEBI:68478"],
+          "CHEMBL.COMPOUND": ["CHEMBL1908360"],
+          "DRUGBANK": ["DB01590"],
+          "PUBCHEM": [6442177, "6442177"],
+          "MESH": ["D000068338", "C107135"],
+          "INCHI": [
+            "InChI=1S/C53H83NO14/c1-32-16-12-11-13-17-33(2)44(63-8)30-40-21-19-38(7)53(62,68-40)50(59)51(60)54-23-15-14-18-41(54)52(61)67-45(35(4)28-39-20-22-43(66-25-24-55)46(29-39)64-9)31-42(56)34(3)27-37(6)48(58)49(65-10)47(57)36(5)26-32/h11-13,16-17,27,32,34-36,38-41,43-46,48-49,55,58,62H,14-15,18-26,28-31H2,1-10H3/b13-11+,16-12+,33-17+,37-27+/t32-,34-,35-,36-,38-,39+,40+,41+,43-,44+,45+,46-,48-,49+,53-/m1/s1"
+          ],
+          "INCHIKEY": ["HKVAMNSJSFKALM-GKUWKFKPSA-N"],
+          "UNII": ["9HW64Q8G6G"],
+          "UMLS": ["C0541315"],
+          "name": ["EVEROLIMUS", "Everolimus", "everolimus"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEBI:68478",
+          "CHEMBL.COMPOUND:CHEMBL1908360",
+          "DRUGBANK:DB01590",
+          "PUBCHEM:6442177",
+          "MESH:D000068338",
+          "MESH:C107135",
+          "INCHI:InChI=1S/C53H83NO14/c1-32-16-12-11-13-17-33(2)44(63-8)30-40-21-19-38(7)53(62,68-40)50(59)51(60)54-23-15-14-18-41(54)52(61)67-45(35(4)28-39-20-22-43(66-25-24-55)46(29-39)64-9)31-42(56)34(3)27-37(6)48(58)49(65-10)47(57)36(5)26-32/h11-13,16-17,27,32,34-36,38-41,43-46,48-49,55,58,62H,14-15,18-26,28-31H2,1-10H3/b13-11+,16-12+,33-17+,37-27+/t32-,34-,35-,36-,38-,39+,40+,41+,43-,44+,45+,46-,48-,49+,53-/m1/s1",
+          "INCHIKEY:HKVAMNSJSFKALM-GKUWKFKPSA-N",
+          "UNII:9HW64Q8G6G",
+          "UMLS:C0541315"
+        ]
+      },
+      "original": "CHEBI:68478"
+    },
+    "label": "EVEROLIMUS",
+    "id": "CHEBI:68478"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC3824539", "PMC6539010"],
+    "CHEBI": "CHEBI:29309",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:29309",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC3824539", "PMC:PMC6539010"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "methyl", "identifier": "CHEBI:29309" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:29309" },
+          { "identifier": "INCHI:InChI=1S/CH3/h1H3" },
+          { "identifier": "INCHIKEY:WCYWZMWISLQXQU-UHFFFAOYSA-N" },
+          { "identifier": "name:methyl" }
+        ],
+        "bte_ids": {
+          "CHEBI": ["CHEBI:29309"],
+          "INCHI": ["InChI=1S/CH3/h1H3"],
+          "INCHIKEY": ["WCYWZMWISLQXQU-UHFFFAOYSA-N"],
+          "name": ["methyl"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEBI:29309",
+          "INCHI:InChI=1S/CH3/h1H3",
+          "INCHIKEY:WCYWZMWISLQXQU-UHFFFAOYSA-N"
+        ]
+      },
+      "original": "CHEBI:29309"
+    },
+    "label": "methyl",
+    "id": "CHEBI:29309"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC6523557", "PMC6544647"],
+    "CHEBI": "CHEBI:75958",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:75958",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC6523557", "PMC:PMC6544647"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "identifier": "CHEBI:75958", "label": "CHEBI:75958" },
+        "ids": ["CHEBI:75958"],
+        "bte_ids": { "CHEBI": ["CHEBI:75958"] },
+        "equivalent_identifiers": [{ "identifier": "CHEBI:75958" }],
+        "type": "ChemicalSubstance",
+        "flag": "failed"
+      },
+      "original": "CHEBI:75958"
+    },
+    "label": "CHEBI:75958",
+    "id": "CHEBI:75958"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC3297200"],
+    "CHEBI": "CHEBI:71219",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:71219",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC3297200"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "PAZOPANIB", "identifier": "CHEBI:71219" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:71219" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL477772" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL1201733" },
+          { "identifier": "DRUGBANK:DB06589" },
+          { "identifier": "PUBCHEM:10113978" },
+          { "identifier": "PUBCHEM:10113978" },
+          { "identifier": "MESH:C516667" },
+          {
+            "identifier": "INCHI:InChI=1S/C21H23N7O2S/c1-13-5-6-15(11-19(13)31(22,29)30)24-21-23-10-9-20(25-21)27(3)16-7-8-17-14(2)28(4)26-18(17)12-16/h5-12H,1-4H3,(H2,22,29,30)(H,23,24,25)"
+          },
+          { "identifier": "INCHIKEY:CUIHSIWYWATEQL-UHFFFAOYSA-N" },
+          { "identifier": "UNII:33Y9ANM545" },
+          { "identifier": "UNII:7RN5DR86CK" },
+          { "identifier": "UMLS:C1831796" },
+          { "identifier": "name:PAZOPANIB" },
+          { "identifier": "name:Pazopanib" },
+          { "identifier": "name:pazopanib" }
+        ],
+        "bte_ids": {
+          "CHEBI": ["CHEBI:71219"],
+          "CHEMBL.COMPOUND": ["CHEMBL477772", "CHEMBL1201733"],
+          "DRUGBANK": ["DB06589"],
+          "PUBCHEM": [10113978, "10113978"],
+          "MESH": ["C516667"],
+          "INCHI": [
+            "InChI=1S/C21H23N7O2S/c1-13-5-6-15(11-19(13)31(22,29)30)24-21-23-10-9-20(25-21)27(3)16-7-8-17-14(2)28(4)26-18(17)12-16/h5-12H,1-4H3,(H2,22,29,30)(H,23,24,25)"
+          ],
+          "INCHIKEY": ["CUIHSIWYWATEQL-UHFFFAOYSA-N"],
+          "UNII": ["33Y9ANM545", "7RN5DR86CK"],
+          "UMLS": ["C1831796"],
+          "name": ["PAZOPANIB", "Pazopanib", "pazopanib"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEBI:71219",
+          "CHEMBL.COMPOUND:CHEMBL477772",
+          "CHEMBL.COMPOUND:CHEMBL1201733",
+          "DRUGBANK:DB06589",
+          "PUBCHEM:10113978",
+          "MESH:C516667",
+          "INCHI:InChI=1S/C21H23N7O2S/c1-13-5-6-15(11-19(13)31(22,29)30)24-21-23-10-9-20(25-21)27(3)16-7-8-17-14(2)28(4)26-18(17)12-16/h5-12H,1-4H3,(H2,22,29,30)(H,23,24,25)",
+          "INCHIKEY:CUIHSIWYWATEQL-UHFFFAOYSA-N",
+          "UNII:33Y9ANM545",
+          "UNII:7RN5DR86CK",
+          "UMLS:C1831796"
+        ]
+      },
+      "original": "CHEBI:71219"
+    },
+    "label": "PAZOPANIB",
+    "id": "CHEBI:71219"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC6835907"],
+    "CHEBI": "CHEBI:7719",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:7719",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC6835907"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "3R14S-OCHRATOXIN A", "identifier": "CHEBI:7719" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:7719" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL589366" },
+          { "identifier": "PUBCHEM:442530" },
+          { "identifier": "MESH:C025589" },
+          {
+            "identifier": "INCHI:InChI=1S/C20H18ClNO6/c1-10-7-12-14(21)9-13(17(23)16(12)20(27)28-10)18(24)22-15(19(25)26)8-11-5-3-2-4-6-11/h2-6,9-10,15,23H,7-8H2,1H3,(H,22,24)(H,25,26)/t10-,15+/m1/s1"
+          },
+          { "identifier": "INCHIKEY:RWQKHEORZBHNRI-BMIGLBTASA-N" },
+          { "identifier": "UNII:1779SX6LUY" },
+          { "identifier": "UMLS:C0069299" },
+          { "identifier": "name:3R14S-OCHRATOXIN A" },
+          { "identifier": "name:ochratoxin A" },
+          { "identifier": "name:OCHRATOXIN A" }
+        ],
+        "bte_ids": {
+          "CHEBI": ["CHEBI:7719"],
+          "CHEMBL.COMPOUND": ["CHEMBL589366"],
+          "PUBCHEM": [442530],
+          "MESH": ["C025589"],
+          "INCHI": [
+            "InChI=1S/C20H18ClNO6/c1-10-7-12-14(21)9-13(17(23)16(12)20(27)28-10)18(24)22-15(19(25)26)8-11-5-3-2-4-6-11/h2-6,9-10,15,23H,7-8H2,1H3,(H,22,24)(H,25,26)/t10-,15+/m1/s1"
+          ],
+          "INCHIKEY": ["RWQKHEORZBHNRI-BMIGLBTASA-N"],
+          "UNII": ["1779SX6LUY"],
+          "UMLS": ["C0069299"],
+          "name": ["3R14S-OCHRATOXIN A", "ochratoxin A", "OCHRATOXIN A"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEBI:7719",
+          "CHEMBL.COMPOUND:CHEMBL589366",
+          "PUBCHEM:442530",
+          "MESH:C025589",
+          "INCHI:InChI=1S/C20H18ClNO6/c1-10-7-12-14(21)9-13(17(23)16(12)20(27)28-10)18(24)22-15(19(25)26)8-11-5-3-2-4-6-11/h2-6,9-10,15,23H,7-8H2,1H3,(H,22,24)(H,25,26)/t10-,15+/m1/s1",
+          "INCHIKEY:RWQKHEORZBHNRI-BMIGLBTASA-N",
+          "UNII:1779SX6LUY",
+          "UMLS:C0069299"
+        ]
+      },
+      "original": "CHEBI:7719"
+    },
+    "label": "3R14S-OCHRATOXIN A",
+    "id": "CHEBI:7719"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC6535905"],
+    "CHEBI": "CHEBI:24433",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:24433",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC6535905"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "identifier": "CHEBI:24433", "label": "CHEBI:24433" },
+        "ids": ["CHEBI:24433"],
+        "bte_ids": { "CHEBI": ["CHEBI:24433"] },
+        "equivalent_identifiers": [{ "identifier": "CHEBI:24433" }],
+        "type": "ChemicalSubstance",
+        "flag": "failed"
+      },
+      "original": "CHEBI:24433"
+    },
+    "label": "CHEBI:24433",
+    "id": "CHEBI:24433"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC6526928", "PMC6529605"],
+    "CHEBI": "CHEBI:23888",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:23888",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC6526928", "PMC:PMC6529605"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "identifier": "CHEBI:23888", "label": "CHEBI:23888" },
+        "ids": ["CHEBI:23888"],
+        "bte_ids": { "CHEBI": ["CHEBI:23888"] },
+        "equivalent_identifiers": [{ "identifier": "CHEBI:23888" }],
+        "type": "ChemicalSubstance",
+        "flag": "failed"
+      },
+      "original": "CHEBI:23888"
+    },
+    "label": "CHEBI:23888",
+    "id": "CHEBI:23888"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC6520667"],
+    "CHEBI": "CHEBI:67194",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:67194",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC6520667"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "identifier": "CHEBI:67194", "label": "CHEBI:67194" },
+        "ids": ["CHEBI:67194"],
+        "bte_ids": { "CHEBI": ["CHEBI:67194"] },
+        "equivalent_identifiers": [{ "identifier": "CHEBI:67194" }],
+        "type": "ChemicalSubstance",
+        "flag": "failed"
+      },
+      "original": "CHEBI:67194"
+    },
+    "label": "CHEBI:67194",
+    "id": "CHEBI:67194"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC6764113"],
+    "CHEBI": "CHEBI:59132",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:59132",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC6764113"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "identifier": "CHEBI:59132", "label": "CHEBI:59132" },
+        "ids": ["CHEBI:59132"],
+        "bte_ids": { "CHEBI": ["CHEBI:59132"] },
+        "equivalent_identifiers": [{ "identifier": "CHEBI:59132" }],
+        "type": "ChemicalSubstance",
+        "flag": "failed"
+      },
+      "original": "CHEBI:59132"
+    },
+    "label": "CHEBI:59132",
+    "id": "CHEBI:59132"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC6512293"],
+    "CHEBI": "CHEBI:60809",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:60809",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC6512293"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "identifier": "CHEBI:60809", "label": "CHEBI:60809" },
+        "ids": ["CHEBI:60809"],
+        "bte_ids": { "CHEBI": ["CHEBI:60809"] },
+        "equivalent_identifiers": [{ "identifier": "CHEBI:60809" }],
+        "type": "ChemicalSubstance",
+        "flag": "failed"
+      },
+      "original": "CHEBI:60809"
+    },
+    "label": "CHEBI:60809",
+    "id": "CHEBI:60809"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC6527800"],
+    "CHEBI": "CHEBI:16796",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:16796",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC6527800"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "MELATONIN", "identifier": "CHEBI:16796" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:16796" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL45" },
+          { "identifier": "DRUGBANK:DB01065" },
+          { "identifier": "PUBCHEM:896" },
+          { "identifier": "PUBCHEM:896" },
+          { "identifier": "MESH:D008550" },
+          {
+            "identifier": "INCHI:InChI=1S/C13H16N2O2/c1-9(16)14-6-5-10-8-15-13-4-3-11(17-2)7-12(10)13/h3-4,7-8,15H,5-6H2,1-2H3,(H,14,16)"
+          },
+          { "identifier": "INCHIKEY:DRLFMBDRBRZALE-UHFFFAOYSA-N" },
+          { "identifier": "UNII:JL5DK93RCL" },
+          { "identifier": "KEGG:C01598" },
+          { "identifier": "UMLS:C0025219" },
+          { "identifier": "name:MELATONIN" },
+          { "identifier": "name:Melatonin" },
+          { "identifier": "name:melatonin" }
+        ],
+        "bte_ids": {
+          "CHEBI": ["CHEBI:16796"],
+          "CHEMBL.COMPOUND": ["CHEMBL45"],
+          "DRUGBANK": ["DB01065"],
+          "PUBCHEM": [896, "896"],
+          "MESH": ["D008550"],
+          "INCHI": [
+            "InChI=1S/C13H16N2O2/c1-9(16)14-6-5-10-8-15-13-4-3-11(17-2)7-12(10)13/h3-4,7-8,15H,5-6H2,1-2H3,(H,14,16)"
+          ],
+          "INCHIKEY": ["DRLFMBDRBRZALE-UHFFFAOYSA-N"],
+          "UNII": ["JL5DK93RCL"],
+          "KEGG": ["C01598"],
+          "UMLS": ["C0025219"],
+          "name": ["MELATONIN", "Melatonin", "melatonin"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEBI:16796",
+          "CHEMBL.COMPOUND:CHEMBL45",
+          "DRUGBANK:DB01065",
+          "PUBCHEM:896",
+          "MESH:D008550",
+          "INCHI:InChI=1S/C13H16N2O2/c1-9(16)14-6-5-10-8-15-13-4-3-11(17-2)7-12(10)13/h3-4,7-8,15H,5-6H2,1-2H3,(H,14,16)",
+          "INCHIKEY:DRLFMBDRBRZALE-UHFFFAOYSA-N",
+          "UNII:JL5DK93RCL",
+          "KEGG:C01598",
+          "UMLS:C0025219"
+        ]
+      },
+      "original": "CHEBI:16796"
+    },
+    "label": "MELATONIN",
+    "id": "CHEBI:16796"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC6794525"],
+    "CHEBI": "CHEBI:29315",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:29315",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC6794525"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "phosphoryl", "identifier": "CHEBI:29315" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:29315" },
+          { "identifier": "INCHI:InChI=1S/OP/c1-2" },
+          { "identifier": "INCHIKEY:LFGREXWGYUGZLY-UHFFFAOYSA-N" },
+          { "identifier": "name:phosphoryl" }
+        ],
+        "bte_ids": {
+          "CHEBI": ["CHEBI:29315"],
+          "INCHI": ["InChI=1S/OP/c1-2"],
+          "INCHIKEY": ["LFGREXWGYUGZLY-UHFFFAOYSA-N"],
+          "name": ["phosphoryl"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEBI:29315",
+          "INCHI:InChI=1S/OP/c1-2",
+          "INCHIKEY:LFGREXWGYUGZLY-UHFFFAOYSA-N"
+        ]
+      },
+      "original": "CHEBI:29315"
+    },
+    "label": "phosphoryl",
+    "id": "CHEBI:29315"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC6544647"],
+    "CHEBI": "CHEBI:27889",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:27889",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC6544647"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "lead(0)", "identifier": "CHEBI:27889" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:27889" },
+          { "identifier": "INCHI:InChI=1S/Pb" },
+          { "identifier": "INCHIKEY:WABPQHHGFIMREM-UHFFFAOYSA-N" },
+          { "identifier": "name:lead(0)" }
+        ],
+        "bte_ids": {
+          "CHEBI": ["CHEBI:27889"],
+          "INCHI": ["InChI=1S/Pb"],
+          "INCHIKEY": ["WABPQHHGFIMREM-UHFFFAOYSA-N"],
+          "name": ["lead(0)"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEBI:27889",
+          "INCHI:InChI=1S/Pb",
+          "INCHIKEY:WABPQHHGFIMREM-UHFFFAOYSA-N"
+        ]
+      },
+      "original": "CHEBI:27889"
+    },
+    "label": "lead(0)",
+    "id": "CHEBI:27889"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC6581886"],
+    "CHEBI": "CHEBI:6457",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:6457",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC6581886"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "identifier": "CHEBI:6457", "label": "CHEBI:6457" },
+        "ids": ["CHEBI:6457"],
+        "bte_ids": { "CHEBI": ["CHEBI:6457"] },
+        "equivalent_identifiers": [{ "identifier": "CHEBI:6457" }],
+        "type": "ChemicalSubstance",
+        "flag": "failed"
+      },
+      "original": "CHEBI:6457"
+    },
+    "label": "CHEBI:6457",
+    "id": "CHEBI:6457"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC3164726"],
+    "CHEBI": "CHEBI:49668",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:49668",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC3164726"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "GEFITINIB", "identifier": "CHEBI:49668" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:49668" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL939" },
+          { "identifier": "DRUGBANK:DB00317" },
+          { "identifier": "PUBCHEM:123631" },
+          { "identifier": "PUBCHEM:123631" },
+          { "identifier": "MESH:C419708" },
+          {
+            "identifier": "INCHI:InChI=1S/C22H24ClFN4O3/c1-29-20-13-19-16(12-21(20)31-8-2-5-28-6-9-30-10-7-28)22(26-14-25-19)27-15-3-4-18(24)17(23)11-15/h3-4,11-14H,2,5-10H2,1H3,(H,25,26,27)"
+          },
+          { "identifier": "INCHIKEY:XGALLCVXEZPNRQ-UHFFFAOYSA-N" },
+          { "identifier": "UNII:S65743JHBS" },
+          { "identifier": "UMLS:C1122962" },
+          { "identifier": "name:GEFITINIB" },
+          { "identifier": "name:Gefitinib" },
+          { "identifier": "name:gefitinib" }
+        ],
+        "bte_ids": {
+          "CHEBI": ["CHEBI:49668"],
+          "CHEMBL.COMPOUND": ["CHEMBL939"],
+          "DRUGBANK": ["DB00317"],
+          "PUBCHEM": [123631, "123631"],
+          "MESH": ["C419708"],
+          "INCHI": [
+            "InChI=1S/C22H24ClFN4O3/c1-29-20-13-19-16(12-21(20)31-8-2-5-28-6-9-30-10-7-28)22(26-14-25-19)27-15-3-4-18(24)17(23)11-15/h3-4,11-14H,2,5-10H2,1H3,(H,25,26,27)"
+          ],
+          "INCHIKEY": ["XGALLCVXEZPNRQ-UHFFFAOYSA-N"],
+          "UNII": ["S65743JHBS"],
+          "UMLS": ["C1122962"],
+          "name": ["GEFITINIB", "Gefitinib", "gefitinib"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEBI:49668",
+          "CHEMBL.COMPOUND:CHEMBL939",
+          "DRUGBANK:DB00317",
+          "PUBCHEM:123631",
+          "MESH:C419708",
+          "INCHI:InChI=1S/C22H24ClFN4O3/c1-29-20-13-19-16(12-21(20)31-8-2-5-28-6-9-30-10-7-28)22(26-14-25-19)27-15-3-4-18(24)17(23)11-15/h3-4,11-14H,2,5-10H2,1H3,(H,25,26,27)",
+          "INCHIKEY:XGALLCVXEZPNRQ-UHFFFAOYSA-N",
+          "UNII:S65743JHBS",
+          "UMLS:C1122962"
+        ]
+      },
+      "original": "CHEBI:49668"
+    },
+    "label": "GEFITINIB",
+    "id": "CHEBI:49668"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": [
+      "PMC1780053",
+      "PMC3297200",
+      "PMC3464935",
+      "PMC6512293",
+      "PMC6520693",
+      "PMC6531850",
+      "PMC6548803",
+      "PMC6764113"
+    ],
+    "CHEBI": "CHEBI:38940",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:38940",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": [
+      "PMC:PMC1780053",
+      "PMC:PMC3297200",
+      "PMC:PMC3464935",
+      "PMC:PMC6512293",
+      "PMC:PMC6520693",
+      "PMC:PMC6531850",
+      "PMC:PMC6548803",
+      "PMC:PMC6764113"
+    ],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "SUNITINIB", "identifier": "CHEBI:38940" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:38940" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL535" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL1567" },
+          { "identifier": "DRUGBANK:DB01268" },
+          { "identifier": "PUBCHEM:5329102" },
+          { "identifier": "PUBCHEM:5329102" },
+          { "identifier": "MESH:C473478" },
+          {
+            "identifier": "INCHI:InChI=1S/C22H27FN4O2/c1-5-27(6-2)10-9-24-22(29)20-13(3)19(25-14(20)4)12-17-16-11-15(23)7-8-18(16)26-21(17)28/h7-8,11-12,25H,5-6,9-10H2,1-4H3,(H,24,29)(H,26,28)/b17-12-"
+          },
+          { "identifier": "INCHIKEY:WINHZLLDWRZWRT-ATVHPVEESA-N" },
+          { "identifier": "UNII:LVX8N1UT73" },
+          { "identifier": "UNII:V99T50803M" },
+          { "identifier": "UMLS:C1176020" },
+          { "identifier": "name:SUNITINIB" },
+          { "identifier": "name:Sunitinib" },
+          { "identifier": "name:sunitinib" }
+        ],
+        "bte_ids": {
+          "CHEBI": ["CHEBI:38940"],
+          "CHEMBL.COMPOUND": ["CHEMBL535", "CHEMBL1567"],
+          "DRUGBANK": ["DB01268"],
+          "PUBCHEM": [5329102, "5329102"],
+          "MESH": ["C473478"],
+          "INCHI": [
+            "InChI=1S/C22H27FN4O2/c1-5-27(6-2)10-9-24-22(29)20-13(3)19(25-14(20)4)12-17-16-11-15(23)7-8-18(16)26-21(17)28/h7-8,11-12,25H,5-6,9-10H2,1-4H3,(H,24,29)(H,26,28)/b17-12-"
+          ],
+          "INCHIKEY": ["WINHZLLDWRZWRT-ATVHPVEESA-N"],
+          "UNII": ["LVX8N1UT73", "V99T50803M"],
+          "UMLS": ["C1176020"],
+          "name": ["SUNITINIB", "Sunitinib", "sunitinib"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEBI:38940",
+          "CHEMBL.COMPOUND:CHEMBL535",
+          "CHEMBL.COMPOUND:CHEMBL1567",
+          "DRUGBANK:DB01268",
+          "PUBCHEM:5329102",
+          "MESH:C473478",
+          "INCHI:InChI=1S/C22H27FN4O2/c1-5-27(6-2)10-9-24-22(29)20-13(3)19(25-14(20)4)12-17-16-11-15(23)7-8-18(16)26-21(17)28/h7-8,11-12,25H,5-6,9-10H2,1-4H3,(H,24,29)(H,26,28)/b17-12-",
+          "INCHIKEY:WINHZLLDWRZWRT-ATVHPVEESA-N",
+          "UNII:LVX8N1UT73",
+          "UNII:V99T50803M",
+          "UMLS:C1176020"
+        ]
+      },
+      "original": "CHEBI:38940"
+    },
+    "label": "SUNITINIB",
+    "id": "CHEBI:38940"
+  },
+  {
+    "@type": "ChemicalSubstance",
+    "pmc": ["PMC6548803", "PMC6764113"],
+    "CHEBI": "CHEBI:66910",
+    "$association": {
+      "input_id": "DOID",
+      "input_type": "Disease",
+      "output_id": "CHEBI",
+      "output_type": "ChemicalSubstance",
+      "predicate": "related_to",
+      "source": "Translator Text Mining Provider",
+      "api_name": "CORD Disease API",
+      "smartapi": {
+        "id": "871d5b6761d91a7805572c47f016fe47",
+        "meta": {
+          "ETag": "ab71d66162fa5ef74d8c3a152588b4ea7fb1bfb4464999c12d39526b27d52825",
+          "github_username": "kevinxin90",
+          "timestamp": "2020-04-29T00:01:22.004528",
+          "uptime_status": "good",
+          "uptime_ts": "2020-07-27T00:05:08.349430",
+          "url": "https://raw.githubusercontent.com/NCATS-Tangerine/translator-api-registry/master/cord/cord_disease.yml"
+        }
+      }
+    },
+    "$input": "DOID:4450",
+    "$output": "CHEBI:66910",
+    "$original_input": { "DOID:4450": "MONDO:0005086" },
+    "api": "CORD Disease API",
+    "provided_by": "Translator Text Mining Provider",
+    "publications": ["PMC:PMC6548803", "PMC:PMC6764113"],
+    "$output_id_mapping": {
+      "resolved": {
+        "id": { "label": "AXITINIB", "identifier": "CHEBI:66910" },
+        "equivalent_identifiers": [
+          { "identifier": "CHEBI:66910" },
+          { "identifier": "CHEMBL.COMPOUND:CHEMBL1289926" },
+          { "identifier": "DRUGBANK:DB06626" },
+          { "identifier": "PUBCHEM:6450551" },
+          { "identifier": "PUBCHEM:6450551" },
+          { "identifier": "MESH:D000077784" },
+          { "identifier": "MESH:C503983" },
+          {
+            "identifier": "INCHI:InChI=1S/C22H18N4OS/c1-23-22(27)18-7-2-3-8-21(18)28-16-10-11-17-19(25-26-20(17)14-16)12-9-15-6-4-5-13-24-15/h2-14H,1H3,(H,23,27)(H,25,26)/b12-9+"
+          },
+          { "identifier": "INCHIKEY:RITAVMQDGBJQJZ-FMIVXFBMSA-N" },
+          { "identifier": "UNII:C9LVQ0YUXG" },
+          { "identifier": "UMLS:C1700874" },
+          { "identifier": "name:AXITINIB" },
+          { "identifier": "name:Axitinib" }
+        ],
+        "bte_ids": {
+          "CHEBI": ["CHEBI:66910"],
+          "CHEMBL.COMPOUND": ["CHEMBL1289926"],
+          "DRUGBANK": ["DB06626"],
+          "PUBCHEM": [6450551, "6450551"],
+          "MESH": ["D000077784", "C503983"],
+          "INCHI": [
+            "InChI=1S/C22H18N4OS/c1-23-22(27)18-7-2-3-8-21(18)28-16-10-11-17-19(25-26-20(17)14-16)12-9-15-6-4-5-13-24-15/h2-14H,1H3,(H,23,27)(H,25,26)/b12-9+"
+          ],
+          "INCHIKEY": ["RITAVMQDGBJQJZ-FMIVXFBMSA-N"],
+          "UNII": ["C9LVQ0YUXG"],
+          "UMLS": ["C1700874"],
+          "name": ["AXITINIB", "Axitinib"]
+        },
+        "type": "ChemicalSubstance",
+        "ids": [
+          "CHEBI:66910",
+          "CHEMBL.COMPOUND:CHEMBL1289926",
+          "DRUGBANK:DB06626",
+          "PUBCHEM:6450551",
+          "MESH:D000077784",
+          "MESH:C503983",
+          "INCHI:InChI=1S/C22H18N4OS/c1-23-22(27)18-7-2-3-8-21(18)28-16-10-11-17-19(25-26-20(17)14-16)12-9-15-6-4-5-13-24-15/h2-14H,1H3,(H,23,27)(H,25,26)/b12-9+",
+          "INCHIKEY:RITAVMQDGBJQJZ-FMIVXFBMSA-N",
+          "UNII:C9LVQ0YUXG",
+          "UMLS:C1700874"
+        ]
+      },
+      "original": "CHEBI:66910"
+    },
+    "label": "AXITINIB",
+    "id": "CHEBI:66910"
+  }
+]
