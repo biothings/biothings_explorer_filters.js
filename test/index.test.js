@@ -168,7 +168,7 @@ describe("Test filterResults function", function() {
         },
       },
     ];
-    let output = await filterResults(input, "ngd_overall", 5);
+    let output = await filterResults(input, {sort_by: "ngd_overall", max_results: 5});
     expect(output).toMatchSnapshot();
     expect(output.length).toEqual(5);
   });
