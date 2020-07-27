@@ -1,5 +1,5 @@
 # biothings_explorer_filters.js
-[![Build Status](https://travis-ci.com/ericz1803/biothings_explorer_filters.js.svg?branch=master)](https://travis-ci.com/ericz1803/biothings_explorer_filters.js) [![Coverage Status](https://coveralls.io/repos/github/ericz1803/biothings_explorer_filters.js/badge.svg?branch=master)](https://coveralls.io/github/ericz1803/biothings_explorer_filters.js?branch=master)  
+[![npm](https://img.shields.io/npm/v/biothings-explorer-filters)](https://www.npmjs.com/package/biothings-explorer-filters) [![Build Status](https://travis-ci.com/ericz1803/biothings_explorer_filters.js.svg?branch=master)](https://travis-ci.com/ericz1803/biothings_explorer_filters.js) [![Coverage Status](https://coveralls.io/repos/github/ericz1803/biothings_explorer_filters.js/badge.svg?branch=master)](https://coveralls.io/github/ericz1803/biothings_explorer_filters.js?branch=master)  
 NodeJS library delivering Filter features for BioThings Explorer
 
 ## Install
