@@ -1,0 +1,153 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test filterResults function basic test 1`] = `
+Array [
+  Object {
+    "$association": Object {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D000077211",
+    "$output_id_mapping": Object {
+      "resolved": Object {
+        "db_ids": Object {
+          "MESH": Array [
+            "D000077211",
+          ],
+          "UMLS": Array [
+            "C0528130",
+          ],
+          "name": Array [
+            "CGP 42446A",
+          ],
+        },
+      },
+    },
+    "correlation": Object {
+      "ngd_overall": 0.5453541452074222,
+      "ngd_starred": 540000000,
+    },
+  },
+  Object {
+    "$association": Object {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:D015054",
+    "$output_id_mapping": Object {
+      "resolved": Object {
+        "db_ids": Object {
+          "MESH": Array [
+            "D015054",
+          ],
+          "UMLS": Array [
+            "C0043553",
+          ],
+          "name": Array [
+            "Zymosan A",
+          ],
+        },
+      },
+    },
+    "MESH": "D015054",
+    "correlation": Object {
+      "ngd_overall": 0.8915507307390269,
+      "ngd_starred": 540000000,
+    },
+    "pubmed": Array [
+      "30258081",
+    ],
+  },
+  Object {
+    "$association": Object {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:C088450",
+    "$output_id_mapping": Object {
+      "resolved": Object {
+        "db_ids": Object {
+          "MESH": Array [
+            "C088450",
+          ],
+          "UMLS": Array [
+            "C0257278",
+          ],
+        },
+      },
+    },
+    "correlation": Object {
+      "ngd_overall": -1,
+      "ngd_starred": -1,
+    },
+  },
+  Object {
+    "$association": Object {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:C097270",
+    "$output_id_mapping": Object {
+      "resolved": Object {
+        "db_ids": Object {
+          "MESH": Array [
+            "C097270",
+          ],
+          "UMLS": Array [
+            "C0384965",
+          ],
+          "name": Array [
+            "ZM 241385",
+            "ZM-241385",
+          ],
+        },
+      },
+    },
+    "correlation": Object {
+      "ngd_overall": -1,
+      "ngd_starred": -1,
+    },
+  },
+  Object {
+    "$association": Object {
+      "input_id": "MESH",
+      "input_type": "Disease",
+      "output_id": "MESH",
+      "output_type": "ChemicalSubstance",
+    },
+    "$input": "MESH:D002292",
+    "$output": "MESH:C027368",
+    "$output_id_mapping": Object {
+      "resolved": Object {
+        "db_ids": Object {
+          "MESH": Array [
+            "C027368",
+          ],
+          "UMLS": Array [
+            "C0078841",
+          ],
+          "name": Array [
+            "zomepirac glucuronide",
+          ],
+        },
+      },
+    },
+    "correlation": Object {
+      "ngd_overall": -1,
+      "ngd_starred": -1,
+    },
+  },
+]
+`;
