@@ -71,13 +71,13 @@ async function getCombos(results) {
     if (result["$input"].includes("UMLS") || result["$input"].includes("MESH")) {
       inputId1 = result["$input"].split(":")[1];
     } else {
-      inputId1 = resolved[result["$input"]].bte_ids["MESH"] || resolved[result["$input"]].bte_ids["UMLS"];
+      inputId1 = resolved[result["$input"]].db_ids["MESH"] || resolved[result["$input"]].db_ids["UMLS"];
     }
 
     if (result["$output"].includes("UMLS") || result["$output"].includes("MESH")) {
       inputId2 = result["$output"].split(":")[1];
     } else {
-      inputId2 = result["$output_id_mapping"].resolved.bte_ids["MESH"] || result["$output_id_mapping"].resolved.bte_ids["UMLS"];
+      inputId2 = result["$output_id_mapping"].resolved.db_ids["MESH"] || result["$output_id_mapping"].resolved.db_ids["UMLS"];
     }
 
     combos.push(`${inputId1}-${inputId2}`);

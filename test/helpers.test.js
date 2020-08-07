@@ -82,7 +82,7 @@ describe("Test getCombos function", function() {
         "$output": "MONDO:0007915",
         "$output_id_mapping": {
           resolved: {
-            "bte_ids": {
+            "db_ids": {
               MESH: ["D008180"],
               UMLS: ["C0024141"]
             }
@@ -101,7 +101,7 @@ describe("Test getCombos function", function() {
         "$output": "MONDO:0005575",
         "$output_id_mapping": {
           resolved: {
-            "bte_ids": {
+            "db_ids": {
               MONDO: ["MONDO:0005575"],
               UMLS: ["C1527249"]
             }
@@ -120,7 +120,7 @@ describe("Test getCombos function", function() {
         "$output": "MONDO:0005233",
         "$output_id_mapping": {
           resolved: {
-            "bte_ids": {
+            "db_ids": {
             }
           }
         }
@@ -162,7 +162,7 @@ describe("Test getCorrelation function", function() {
         "$output": "MONDO:0007915",
         "$output_id_mapping": {
           resolved: {
-            "bte_ids": {
+            "db_ids": {
               MESH: ["D008180"],
               UMLS: ["C0024141"]
             }
@@ -181,7 +181,7 @@ describe("Test getCorrelation function", function() {
         "$output": "MONDO:0005575",
         "$output_id_mapping": {
           resolved: {
-            "bte_ids": {
+            "db_ids": {
               MONDO: ["MONDO:0005575"],
               UMLS: ["C1527249"]
             }
@@ -200,7 +200,7 @@ describe("Test getCorrelation function", function() {
         "$output": "MONDO:0005233",
         "$output_id_mapping": {
           resolved: {
-            "bte_ids": {
+            "db_ids": {
             }
           }
         }

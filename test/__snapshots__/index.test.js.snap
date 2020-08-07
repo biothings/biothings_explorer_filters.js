@@ -13,7 +13,7 @@ Array [
     "$output": "MESH:D000077211",
     "$output_id_mapping": Object {
       "resolved": Object {
-        "bte_ids": Object {
+        "db_ids": Object {
           "MESH": Array [
             "D000077211",
           ],
@@ -42,7 +42,7 @@ Array [
     "$output": "MESH:D015054",
     "$output_id_mapping": Object {
       "resolved": Object {
-        "bte_ids": Object {
+        "db_ids": Object {
           "MESH": Array [
             "D015054",
           ],
@@ -75,7 +75,7 @@ Array [
     "$output": "MESH:C088450",
     "$output_id_mapping": Object {
       "resolved": Object {
-        "bte_ids": Object {
+        "db_ids": Object {
           "MESH": Array [
             "C088450",
           ],
@@ -101,7 +101,7 @@ Array [
     "$output": "MESH:C097270",
     "$output_id_mapping": Object {
       "resolved": Object {
-        "bte_ids": Object {
+        "db_ids": Object {
           "MESH": Array [
             "C097270",
           ],
@@ -131,7 +131,7 @@ Array [
     "$output": "MESH:C027368",
     "$output_id_mapping": Object {
       "resolved": Object {
-        "bte_ids": Object {
+        "db_ids": Object {
           "MESH": Array [
             "C027368",
           ],

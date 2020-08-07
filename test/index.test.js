@@ -15,7 +15,7 @@ describe("Test filterResults function", function() {
         "$output": "MESH:C088450",
         "$output_id_mapping": {
           "resolved": {
-            "bte_ids": {
+            "db_ids": {
               "MESH": ["C088450"],
               "UMLS": ["C0257278"],
             },
@@ -33,7 +33,7 @@ describe("Test filterResults function", function() {
         "$output": "MESH:C097270",
         "$output_id_mapping": {
           "resolved": {
-            "bte_ids": {
+            "db_ids": {
               "MESH": ["C097270"],
               "UMLS": ["C0384965"],
               "name": ["ZM 241385", "ZM-241385"]
@@ -52,7 +52,7 @@ describe("Test filterResults function", function() {
         "$output": "MESH:D000077211",
         "$output_id_mapping": {
           "resolved": {
-            "bte_ids": {
+            "db_ids": {
               "MESH": ["D000077211"],
               "UMLS": ["C0528130"],
               "name": ["CGP 42446A"]
@@ -71,7 +71,7 @@ describe("Test filterResults function", function() {
         "$output": "MESH:C027368",
         "$output_id_mapping": {
           "resolved": {
-            "bte_ids": {
+            "db_ids": {
               "MESH": ["C027368"],
               "UMLS": ["C0078841"],
               "name": ["zomepirac glucuronide"]
@@ -91,7 +91,7 @@ describe("Test filterResults function", function() {
         "$output": "CHEMBL.COMPOUND:CHEMBL10372",
         "$output_id_mapping": {
           "resolved": {
-            "bte_ids": {
+            "db_ids": {
               "CHEMBL.COMPOUND": ["CHEMBL10372"],
               "DRUGBANK": ["DB08772"],
               "PUBCHEM": [1613, "1613"],
@@ -119,7 +119,7 @@ describe("Test filterResults function", function() {
         "$output": "MESH:C510150",
         "$output_id_mapping": {
           "resolved": {
-            "bte_ids": {
+            "db_ids": {
               "MESH": ["C510150"],
               "UMLS": ["C1721602"],
               "name": ["ZSTK474"]
@@ -138,7 +138,7 @@ describe("Test filterResults function", function() {
         "$output": "MESH:C519312",
         "$output_id_mapping": {
           "resolved": {
-            "bte_ids": {
+            "db_ids": {
               "MESH": ["C519312"],
               "UMLS": ["C1956582"],
               "name": ["Zyflamend"]
@@ -159,7 +159,7 @@ describe("Test filterResults function", function() {
         "$output": "MESH:D015054",
         "$output_id_mapping": {
           "resolved": {
-            "bte_ids": {
+            "db_ids": {
               "MESH": ["D015054"],
               "UMLS": ["C0043553"],
               "name": ["Zymosan A"]

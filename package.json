@@ -1,6 +1,6 @@
 {
   "name": "biothings-explorer-filters",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJS library delivering Filter features for BioThings Explorer",
   "main": "src/index.js",
   "scripts": {
@@ -22,12 +22,12 @@
   "homepage": "https://github.com/ericz1803/biothings_explorer_filters.js#readme",
   "dependencies": {
     "axios": "^0.19.2",
-    "biomedical_id_resolver": "^1.0.8",
+    "biomedical_id_resolver": "~1.1.0",
     "lodash": "^4.17.19"
   },
   "devDependencies": {
     "coveralls": "^3.1.0",
-    "jest": "^26.1.0",
+    "jest": "^26.2.2",
     "rewire": "^5.0.0"
   }
 }
